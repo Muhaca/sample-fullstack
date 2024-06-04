@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "first_name": "Torrance",
+        "last_name": "Haverty",
+        "email": "thaverty0@ycombinator.com",
+        "gender": "Male",
+        "ip_address": "53.177.44.117"
+    },
+    {
+        "id": 2,
+        "first_name": "Bernardo",
+        "last_name": "Castelletti",
+        "email": "bcastelletti1@un.org",
+        "gender": "Male",
+        "ip_address": "8.16.54.231"
+    },
+    {
+        "id": 3,
+        "first_name": "Kingsley",
+        "last_name": "Benoey",
+        "email": "kbenoey2@furl.net",
+        "gender": "Male",
+        "ip_address": "44.119.250.0"
+    },
+    {
+        "id": 4,
+        "first_name": "Siward",
+        "last_name": "Ayto",
+        "email": "sayto3@ow.ly",
+        "gender": "Male",
+        "ip_address": "250.169.143.227"
+    },
+    {
+        "id": 5,
+        "first_name": "Irene",
+        "last_name": "Chilles",
+        "email": "ichilles4@imageshack.us",
+        "gender": "Female",
+        "ip_address": "85.211.208.231"
+    },
+    {
+        "id": 6,
+        "first_name": "Julianne",
+        "last_name": "Phythian",
+        "email": "jphythian5@theguardian.com",
+        "gender": "Female",
+        "ip_address": "183.255.43.164"
+    },
+    {
+        "id": 7,
+        "first_name": "Petunia",
+        "last_name": "Lampl",
+        "email": "plampl6@bluehost.com",
+        "gender": "Bigender",
+        "ip_address": "207.53.240.199"
+    },
+    {
+        "id": 8,
+        "first_name": "Ervin",
+        "last_name": "Halfacre",
+        "email": "ehalfacre7@gnu.org",
+        "gender": "Male",
+        "ip_address": "198.93.43.89"
+    },
+    {
+        "id": 9,
+        "first_name": "Aundrea",
+        "last_name": "Benko",
+        "email": "abenko8@squidoo.com",
+        "gender": "Female",
+        "ip_address": "109.189.56.126"
+    },
+    {
+        "id": 10,
+        "first_name": "Jarrad",
+        "last_name": "Kulvear",
+        "email": "jkulvear9@t.co",
+        "gender": "Male",
+        "ip_address": "216.21.196.209"
+    }
+]
